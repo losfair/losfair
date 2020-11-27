@@ -15,4 +15,4 @@ Other projects that I worked on:
 - [kernel-wasm](https://github.com/wasmerio/kernel-wasm): "Cervus v2", based on Wasmer.
 - [Wavelet](https://github.com/perlin-network/wavelet): Distributed ledger that implements a DAG-like consensus protocol.
 
-<img src="https://github-readme-stats.vercel.app/api?username=losfair&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=losfair&show_icons=true&count_private=true" />
