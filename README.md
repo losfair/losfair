@@ -15,6 +15,6 @@ Other projects that I worked on:
 - [kernel-wasm](https://github.com/wasmerio/kernel-wasm): "Cervus v2", based on Wasmer.
 - [Wavelet](https://github.com/perlin-network/wavelet): Distributed ledger that implements a DAG-like consensus protocol.
 
-My GPG key ID is [0x0CAC0ED59B19C897](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x0CAC0ED59B19C897).
+My GPG key ID is [0x0CAC0ED59B19C897](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x0cac0ed59b19c897).
 
 <img src="https://github-readme-stats.vercel.app/api?username=losfair&show_icons=true&count_private=true" />
