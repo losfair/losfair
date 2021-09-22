@@ -1,1 +1,5 @@
+---
+anonymous: false
+---
+
 Test banner
